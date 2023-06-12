@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    font-size: 20px;
+    text-align:center;
+  }
+  h1{
+     color: antiquewhite;
+     text-decoration: underline;
+  }
+  p{
+  color: antiquewhite;
+  background-color: rgb(184, 176, 165);
+ 
+  }

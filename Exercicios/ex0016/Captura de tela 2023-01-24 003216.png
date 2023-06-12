@@ -1,0 +1,45 @@
+
+                  <Constraint VALUE="31"/>
+                  <Constraint VALUE="19"/>
+                  <Constraint VALUE="256" CUSTOMPAPER="1"/>
+                  <Constraint VALUE="256" CUSTOMPAPER="2"/>
+               </Constraints>
+               <!--<Constraints ID="PaperType" PERMIT="TRUE">
+                  <Constraint VALUE="0"/>
+                  <Constraint VALUE="1"/>
+                  <Constraint VALUE="2"/>
+                  <Constraint VALUE="4"/>
+                  <Constraint VALUE="10"/>
+                  <Constraint VALUE="11"/>
+                  <Constraint VALUE="9"/>
+                  <Constraint VALUE="15"/>
+               </Constraints>-->
+              <Constraints ID="PaperType" PERMIT="FALSE">
+                <Constraint VALUE="51"/>
+              </Constraints>
+            </Item>
+            <Item VALUE="2" PSNAME="LOWER">Lower
+           <Constraints ID="OptionalTray" PERMIT="FALSE">
+             <Constraint VALUE="0"/>
+              </Constraints>
+              <Constraints ID="OptionalTray2" PERMIT="TRUE">
+                <Constraint VALUE="1"/>
+              </Constraints>
+              <Constraints ID="PaperSize" PERMIT="TRUE">
+                  <Constraint VALUE="1"/>
+                  <Constraint VALUE="5"/>
+                  <Constraint VALUE="190"/>
+                  <Constraint VALUE="14"/>
+                  <Constraint VALUE="9"/>
+                  <Constraint VALUE="34"/>
+                  <Constraint VALUE="13"/>
+                  <Constraint VALUE="7"/>
+                  <Constraint VALUE="11"/>
+                  <Constraint VALUE="6"/>
+                 <Constraint VALUE="37"/>
+                 <Constraint VALUE="20"/>
+                 <Constraint VALUE="27"/>
+                 <Constraint VALUE="28"/>
+                 <Constraint VALUE="31"/>
+                 <Constraint VALUE="19"/>
+                  <!--<Co

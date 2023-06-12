@@ -1,0 +1,28 @@
+@font-face {
+    font-family: arial;
+    src: url(NotoSerif-Bold.ttf);
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to right ,blue,green,white);
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    animation: efeito 0.3s infinite
+
+}
+@keyframes efeito {
+           to{
+           text-shadow: white 0 0 10px,
+           #129712 0 0 25px,
+           #063606 0 0 40px;
+           }
+           from{
+             text-shadow: none;
+           }
+}
+main{
+    font-size: 1em;
+}
